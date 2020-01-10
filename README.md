@@ -6,7 +6,7 @@
 
 个人觉得 XMind 工具好在可使用的平台非常多，Windows，MAC，Ubuntu，Android，IOS 都有，各个平台打开很方便，可以随时编辑保存。可以画的结构图也很多，还可以直接导出图片分享。
 
-[XMind]: <https://www.xmind.cn/>
+[XMind](https://www.xmind.cn/,'XMind')
 
 
 
@@ -14,7 +14,7 @@
 
 学习来源：阿里云大学 
 
-[云原生基础公开课]: <https://developer.aliyun.com/learning/roadmap/cloudnative?spm=5176.13257455.1389353.6.74e77facRqxEAZ>
+[云原生基础公开课](https://developer.aliyun.com/learning/roadmap/cloudnative?spm=5176.13257455.1389353.6.74e77facRqxEAZ,'云原生基础公开课')
 
 
 
@@ -27,7 +27,7 @@
 
 学习来源：极客时间
 
-[数据结构与算法之美]: <https://time.geekbang.org/column/intro/126>
+[数据结构与算法之美](https://time.geekbang.org/column/intro/126,'数据结构与算法之美')
 
 - 字符串匹配算法.xmind
 - 图.xmind
